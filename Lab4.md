@@ -15,3 +15,12 @@ Going to `/` gets you a 404 Page not found error.
 
 Going to `/polls` gets you a page that says "Hellow world. You're at the polls index."
 
+## Question 4
+
+Stuff migration whatever
+
+## Question 5
+
+Stuff
+
+## Question 6
