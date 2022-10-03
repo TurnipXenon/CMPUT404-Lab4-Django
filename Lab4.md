@@ -17,7 +17,7 @@ Going to `/polls` gets you a page that says "Hellow world. You're at the polls i
 
 ## Question 4
 
-Stuff migration whatever
+Django migration has two 
 
 ## Question 5
 
