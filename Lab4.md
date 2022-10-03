@@ -24,3 +24,9 @@ Stuff migration whatever
 Stuff
 
 ## Question 6
+
+Views
+
+## Question 7
+
+
