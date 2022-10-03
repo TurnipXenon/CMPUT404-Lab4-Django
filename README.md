@@ -3,9 +3,21 @@
 ## How to activate virtualenv in Windows
 
 ```bash
-virtualenv venv --python=python3
-source venv/Scripts/activate
-pip install Django==3.1.6 # latest official version
+virtualenv venv --python=python3 # Only do once
+source venv/Scripts/activate # Do every time!!
+pip install Django # latest official version
+```
+
+## How-to
+
+Run server:
+```bash
+python manage.py runserver
+```
+
+Create an app:
+```bash
+python manage.py startapp polls
 ```
 
 ## Reference
