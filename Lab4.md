@@ -37,4 +37,11 @@ site in `admin.py`.
 
 ## Question 7
 
+urls are provided by the function's render. It's very easy to put the wrong url
+or having to edit the hardcoded url whenever changes are made in the function.
 
+## Question 8
+
+Generic views take up less code, and it makes views more readable. If you're using
+a template or possibly a common patttern, use generic views. Otherwise, if it's
+simple or none of your use case fits the give generic views, don't use generic views.
