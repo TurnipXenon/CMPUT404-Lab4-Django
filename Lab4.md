@@ -30,7 +30,10 @@ site in `admin.py`.
 
 ## Question 6
 
-Views
+- You see a page that says "You're looking at question 38." at `/polls/38`.
+- You see a page that says "You're looking at the results of question 38." at
+`/polls/38/results`.
+- You see a page that says "You're voting on question 38." at `/polls/38/vote`.
 
 ## Question 7
 
